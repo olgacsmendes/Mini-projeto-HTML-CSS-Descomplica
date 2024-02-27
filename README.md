@@ -55,5 +55,6 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para criar pul
 - **GitHub**: [olgacsmendes](https://github.com/olgacsmendes/)
 
 ---
+*Desenvolvido como parte de um mini projeto em HTML, CSS e Bootstrap para prática de desenvolvimento web. Obrigado por conferir!* 🚀
 
 **Copyright © 2024 Olga Mendes. Todos os direitos reservados.**
